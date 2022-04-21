@@ -4,3 +4,5 @@
 * masuk ke folder project
 * install project dengan command:
   `pip install -e .`
+* jalankan program dengan command
+  `python App.py`
